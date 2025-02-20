@@ -8,3 +8,4 @@ _data/coworker_tags.yml
 .DS_Store
 _proof
 Gemfile.lock
+.idea
